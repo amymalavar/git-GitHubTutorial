@@ -14,3 +14,5 @@ This line represents the first commit with user interface/GitHub Desktop
 This line is to excercise status, commit and push, v2
 
 This line represents the use of SourceControl for use of repositories with Visual Studio Code
+
+This second line represents the use of SourceControl in repositories with VSC
