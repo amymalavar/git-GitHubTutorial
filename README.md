@@ -8,3 +8,5 @@ This line represents the second commit by web.
 This line represents the first commit by terminal in a random repository
 
 This line represents the second commit by terminal.
+
+This line represents the first commit with user interface/GitHub Desktop
